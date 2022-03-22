@@ -1030,7 +1030,7 @@ footer .copyright {
 }
 
 article.blog-item {
-  margin-bottom: 150px;
+  margin-bottom: 50px;
 }
 article.blog-item:last-of-type {
   margin-bottom: 0;
